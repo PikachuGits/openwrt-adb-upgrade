@@ -1,0 +1,17 @@
+# 保留预编译文件
+!prebuilt/
+!adb-bundle.tar.gz
+
+# 忽略临时构建产物
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
